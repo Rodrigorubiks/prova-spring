@@ -19,11 +19,6 @@ Java Development Kit (JDK) 17 ou superior
 MySQL 8.0 ou superior
 Maven
 Git
-Clonar o Repositório
-git clone https://github.com/Lucast34/prova-spring.git
-cd prova-spring
-Configurar o Banco de Dados
-Crie um banco de dados vazio no MySQL chamado lead_api_db.
 
 Abra o arquivo src/main/resources/application.properties e atualize as credenciais do seu banco de dados:
 
